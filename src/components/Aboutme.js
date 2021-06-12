@@ -15,7 +15,7 @@ function Aboutme() {
           Hello! <br />
           I'm Niloofar
         </div>
-        <div>
+        <p>
           I am a Ph.D. candidate at Sharif University. My strengths are in
           research and problem-solving. I specialise in Complex Networks and
           interested in Machine Learning, Big Data Analytics, and Algorithms. I
@@ -23,7 +23,8 @@ function Aboutme() {
           experience in front-end programming, My hobbies include Reading,
           country walks, photography and have a blog post. I would also like to use
           my computer knowledge in other fields of research.
-        </div>
+        </p>
+        <p>Thank you for your interest</p>
         <a href={pdf} download>
           DOWNLOAD CV
         </a>
