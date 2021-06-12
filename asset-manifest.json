@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/niloofararazkhani/static/css/main.0eeb99db.chunk.css",
-    "main.js": "/niloofararazkhani/static/js/main.c21181b3.chunk.js",
-    "main.js.map": "/niloofararazkhani/static/js/main.c21181b3.chunk.js.map",
+    "main.css": "/niloofararazkhani/static/css/main.fb93b3f8.chunk.css",
+    "main.js": "/niloofararazkhani/static/js/main.2ca792dc.chunk.js",
+    "main.js.map": "/niloofararazkhani/static/js/main.2ca792dc.chunk.js.map",
     "runtime-main.js": "/niloofararazkhani/static/js/runtime-main.0a333ae5.js",
     "runtime-main.js.map": "/niloofararazkhani/static/js/runtime-main.0a333ae5.js.map",
     "static/js/2.48a54330.chunk.js": "/niloofararazkhani/static/js/2.48a54330.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.aaafd304.chunk.js": "/niloofararazkhani/static/js/3.aaafd304.chunk.js",
     "static/js/3.aaafd304.chunk.js.map": "/niloofararazkhani/static/js/3.aaafd304.chunk.js.map",
     "index.html": "/niloofararazkhani/index.html",
-    "static/css/main.0eeb99db.chunk.css.map": "/niloofararazkhani/static/css/main.0eeb99db.chunk.css.map",
+    "static/css/main.fb93b3f8.chunk.css.map": "/niloofararazkhani/static/css/main.fb93b3f8.chunk.css.map",
     "static/js/2.48a54330.chunk.js.LICENSE.txt": "/niloofararazkhani/static/js/2.48a54330.chunk.js.LICENSE.txt",
     "static/media/NiloofarArazkhani2021CV (2).5823f0fd.pdf": "/niloofararazkhani/static/media/NiloofarArazkhani2021CV (2).5823f0fd.pdf",
     "static/media/index.css": "/niloofararazkhani/static/media/newbackground.387474a5.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.0a333ae5.js",
     "static/js/2.48a54330.chunk.js",
-    "static/css/main.0eeb99db.chunk.css",
-    "static/js/main.c21181b3.chunk.js"
+    "static/css/main.fb93b3f8.chunk.css",
+    "static/js/main.2ca792dc.chunk.js"
   ]
 }
