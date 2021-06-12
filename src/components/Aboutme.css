@@ -1,0 +1,60 @@
+.photo {
+  padding: 10px;
+  margin-right: 10px;
+}
+.photoBorder {
+  border: solid #e1c4b2 5px;
+
+  height: 199px;
+  width: 176px;
+  position: absolute;
+  margin-bottom: 56px;
+
+  left: 22.5%;
+  bottom: 33%;
+}
+img {
+  height: 200px;
+  width: 180px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  padding: 10px;
+  height: 50vh;
+  width: 110vh;
+  margin-top: 20vh;
+}
+.intro {
+  font-size: xx-large;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #e1c4b2;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px;
+  border: black solid 1px;
+  background-color: #e1c4b2;
+  border-radius: 10px;
+  width: 25%;
+  margin-left: 75%;
+  margin-top: 10px;
+}
+.description {
+  text-align: justify;
+  text-justify: inter-word;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: white;
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
