@@ -1,6 +1,7 @@
 .photo {
   padding: 10px;
   margin-right: 10px;
+  position: relative;
 }
 .photoBorder {
   border: solid #e1c4b2 5px;
@@ -8,10 +9,8 @@
   height: 199px;
   width: 176px;
   position: absolute;
-  margin-bottom: 56px;
-
-  left: 22.5%;
-  bottom: 33%;
+  right: 10%;
+  bottom: 10%;
 }
 img {
   height: 200px;
@@ -37,7 +36,7 @@ img {
   color: #e1c4b2;
   margin-bottom: 10px;
 }
-button {
+a {
   padding: 10px;
   border: black solid 1px;
   background-color: #e1c4b2;
@@ -45,6 +44,7 @@ button {
   width: 25%;
   margin-left: 75%;
   margin-top: 10px;
+  text-align: center;
 }
 .description {
   text-align: justify;
@@ -81,7 +81,7 @@ img{
   border: solid #e1c4b2 5px;
 border-radius: 100%;
 }
-button{
+a{
   margin: auto;
   width: 100%;
   margin-top: 20px;
