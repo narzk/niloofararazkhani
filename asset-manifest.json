@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/niloofararazkhani/static/css/main.6a01dd7d.chunk.css",
-    "main.js": "/niloofararazkhani/static/js/main.c3c36186.chunk.js",
-    "main.js.map": "/niloofararazkhani/static/js/main.c3c36186.chunk.js.map",
-    "runtime-main.js": "/niloofararazkhani/static/js/runtime-main.0a333ae5.js",
-    "runtime-main.js.map": "/niloofararazkhani/static/js/runtime-main.0a333ae5.js.map",
-    "static/js/2.6e1c7d37.chunk.js": "/niloofararazkhani/static/js/2.6e1c7d37.chunk.js",
-    "static/js/2.6e1c7d37.chunk.js.map": "/niloofararazkhani/static/js/2.6e1c7d37.chunk.js.map",
-    "static/js/3.aaafd304.chunk.js": "/niloofararazkhani/static/js/3.aaafd304.chunk.js",
-    "static/js/3.aaafd304.chunk.js.map": "/niloofararazkhani/static/js/3.aaafd304.chunk.js.map",
+    "main.css": "/niloofararazkhani/static/css/main.5fc08b14.chunk.css",
+    "main.js": "/niloofararazkhani/static/js/main.672c2112.chunk.js",
+    "main.js.map": "/niloofararazkhani/static/js/main.672c2112.chunk.js.map",
+    "runtime-main.js": "/niloofararazkhani/static/js/runtime-main.a2ae4b61.js",
+    "runtime-main.js.map": "/niloofararazkhani/static/js/runtime-main.a2ae4b61.js.map",
+    "static/js/2.75b95554.chunk.js": "/niloofararazkhani/static/js/2.75b95554.chunk.js",
+    "static/js/2.75b95554.chunk.js.map": "/niloofararazkhani/static/js/2.75b95554.chunk.js.map",
+    "static/js/3.c06e9de5.chunk.js": "/niloofararazkhani/static/js/3.c06e9de5.chunk.js",
+    "static/js/3.c06e9de5.chunk.js.map": "/niloofararazkhani/static/js/3.c06e9de5.chunk.js.map",
     "index.html": "/niloofararazkhani/index.html",
-    "static/css/main.6a01dd7d.chunk.css.map": "/niloofararazkhani/static/css/main.6a01dd7d.chunk.css.map",
-    "static/js/2.6e1c7d37.chunk.js.LICENSE.txt": "/niloofararazkhani/static/js/2.6e1c7d37.chunk.js.LICENSE.txt",
+    "static/css/main.5fc08b14.chunk.css.map": "/niloofararazkhani/static/css/main.5fc08b14.chunk.css.map",
+    "static/js/2.75b95554.chunk.js.LICENSE.txt": "/niloofararazkhani/static/js/2.75b95554.chunk.js.LICENSE.txt",
     "static/media/NiloofarArazkhani2021CV (2).0ce7f53f.pdf": "/niloofararazkhani/static/media/NiloofarArazkhani2021CV (2).0ce7f53f.pdf",
+    "static/media/NiloofarArazkhaniJobResume2021.2f29a7b5.pdf": "/niloofararazkhani/static/media/NiloofarArazkhaniJobResume2021.2f29a7b5.pdf",
     "static/media/index.css": "/niloofararazkhani/static/media/newbackground.387474a5.jpg",
     "static/media/profile.8cfdab77.jpg": "/niloofararazkhani/static/media/profile.8cfdab77.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a333ae5.js",
-    "static/js/2.6e1c7d37.chunk.js",
-    "static/css/main.6a01dd7d.chunk.css",
-    "static/js/main.c3c36186.chunk.js"
+    "static/js/runtime-main.a2ae4b61.js",
+    "static/js/2.75b95554.chunk.js",
+    "static/css/main.5fc08b14.chunk.css",
+    "static/js/main.672c2112.chunk.js"
   ]
 }
