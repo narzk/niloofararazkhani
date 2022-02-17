@@ -6,7 +6,7 @@ import ChevronDown from "../icons/ChevronDown";
 import "./Aboutme.css";
 import profile from "../assets/profile.jpg";
 import pdf from "./NiloofarArazkhani2021CV (2).pdf";
-import pdfJob from "./NiloofarArazkhaniJobResume2021.pdf";
+import pdfJob from "./NiloofarArazkhaniJobResume.pdf";
 import { useEffect, useState } from "react";
 
 function Aboutme() {
@@ -50,14 +50,12 @@ function Aboutme() {
             </a>
           </div>
           <div className="resume-container">
-  
-              <a href={pdf} download className="download">
-                Academic CV
-              </a>
-              <a href={pdfJob} download className="download">
-                Job CV
-              </a>
-          
+            <a href={pdf} download className="download">
+              Academic CV
+            </a>
+            <a href={pdfJob} download className="download">
+              Job CV
+            </a>
           </div>
         </div>
       </div>
