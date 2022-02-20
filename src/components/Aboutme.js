@@ -24,19 +24,9 @@ function Aboutme() {
       </div>
       <div className="description">
         <div className="intro">
-          Hello! <br />
-          I'm Niloofar
+          Hey Friends I'm Niloofar. A Front-End Developer.
         </div>
-        <p>
-          I am a Ph.D. candidate at Sharif University. My strengths are in
-          research and problem-solving. I specialise in Complex Networks and
-          interested in Machine Learning, Big Data Analytics, and Algorithms. I
-          have a good academic record from The Universities of Iran. I have
-          experience in front-end programming, My hobbies include Reading,
-          country walks, photography and have a blog post. I would also like to
-          use my computer knowledge in other fields of research.
-        </p>
-        <p>Thank you for your interest</p>
+        <p></p>
         <div className="info">
           <div className="icon">
             <a href="https://www.linkedin.com/in/niloofar-arazkhani-1581025b/">
@@ -48,17 +38,18 @@ function Aboutme() {
             <a href="https://github.com/narzk">
               <GitHub />
             </a>
+            <a href="https://github.com/narzk">
+              <GitHub />
+            </a>
           </div>
-          <div className="resume-container">
-  
-              <a href={pdf} download className="download">
-                Academic CV
-              </a>
-              <a href={pdfJob} download className="download">
-                Job CV
-              </a>
-          
-          </div>
+          {/* <div className="resume-container">
+            <a href={pdf} download className="download">
+              Academic CV
+            </a>
+            <a href={pdfJob} download className="download">
+              Job CV
+            </a>
+          </div> */}
         </div>
       </div>
     </div>

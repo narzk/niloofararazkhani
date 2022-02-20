@@ -1,7 +1,7 @@
 function GitHub() {
   return (
     <svg
-      fill="#e1c4b2"
+      fill="#3798D3"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
       width="25px"
