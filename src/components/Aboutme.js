@@ -6,7 +6,7 @@ import ChevronDown from "../icons/ChevronDown";
 import "./Aboutme.css";
 import profile from "../assets/profile.jpg";
 import pdf from "./NiloofarArazkhani2021CV (2).pdf";
-import pdfJob from "./NiloofarArazkhaniJobResume2021.pdf";
+import pdfJob from "./NiloofarArazkhaniJobResume.pdf";
 import { useEffect, useState } from "react";
 
 function Aboutme() {
